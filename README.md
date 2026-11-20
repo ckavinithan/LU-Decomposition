@@ -27,8 +27,8 @@ Solve the backward substitution Ux = y and print x.
 (i) To find the L and U matrix
 ```
 Program to find the L and U matrix.
-Developed by: Ragavan V
-RegisterNumber: 212225240111
+Developed by: Kavinithan C
+RegisterNumber: 212225230134
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
